@@ -8,5 +8,5 @@ Should work with any Ruby version that has CSV
 ```
 $ bundler install
 $ cd lib
-$ ruby shipment_distribution.rb "../input.csv"
+$ ruby shipment_grouper.rb "../input.csv"
 ```
